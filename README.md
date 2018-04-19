@@ -2,5 +2,5 @@ A blogging website that I created for the upcoming OJT program. I intend to use 
 
 Third Party frameworks used: 
 (All these frameworks does not belong to me. All rights goes to their respective owner)
-Simplex (https://bootswatch.com/simplex/)
-JQuery (https://jquery.com/)
+- Simplex (https://bootswatch.com/simplex/)
+- JQuery (https://jquery.com/)
