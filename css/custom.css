@@ -1,0 +1,63 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("../img/image.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#welcome {
+	position: relative; 
+	top: 100px; 
+	color: white;
+	background-color: #5d5d5d;
+	color: #e9e9e9;
+	padding: 2px;
+	width: 250px;
+}
+
+#welcomeB {
+	position: relative; 
+	top: 100px; 
+	color: white;
+	background-color: #5d5d5d;
+	color: #e9e9e9;
+	padding: 2px;
+	width: 180px;
+}
+
+#left_image {
+	float: left;
+	width: 400px;
+	height: 400px;
+	margin-right: 50px;
+}
+
+.tab-content {
+	width: 80%;
+}
+
+.tab-pane {
+	min-height: 460px;
+	margin-bottom: 10%;
+}
+
+
+footer {
+	display: block;
+	width: 100% !important;
+	box-shadow: 5px 0px 8px #888888;
+	padding-bottom: 10px;
+}
+
