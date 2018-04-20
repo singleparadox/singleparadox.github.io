@@ -57,7 +57,7 @@ body, html {
 footer {
 	display: block;
 	width: 100% !important;
-	box-shadow: 5px 0px 8px #888888;
+	border-top: #eeeeee 1px solid;
 	padding-bottom: 10px;
 }
 
