@@ -4,6 +4,7 @@ Third Party frameworks used:
 (All these frameworks, including the image at the homepage, does not belong to me. All rights goes to their respective owner)
 - Simplex (https://bootswatch.com/simplex/)
 - JQuery (https://jquery.com/)
+- Icons (https://fontawesome.com/)
 
 
 **You can access the website by using the links below **
