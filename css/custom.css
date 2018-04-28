@@ -39,10 +39,16 @@ body, html {
 	opacity: 0.9;
 }
 
+p {
+	text-align: justify;
+}
+
 #left_image {
 	float: left;
-	width: 400px;
-	height: 400px;
+	/*width: 400px;
+	height: 400px;size: 5%;*/
+	max-height: 300px;
+	max-width: 100%;
 	margin-right: 50px;
 }
 
@@ -76,5 +82,25 @@ footer {
 	width: 100% !important;
 	border-top: #eeeeee 1px solid;
 	padding-bottom: 10px;
+}
+
+
+/* weekX.html codes below*/
+
+.week {
+	position: relative;
+	top: 40px; 
+	left: 40px; 
+	width: 80%; 
+	display: block;
+
+}
+
+@media only screen and (min-width: 768px) {
+	.week {
+		top: 10px;
+		left: 10px;
+	}
+
 }
 
