@@ -37,6 +37,14 @@ $('#week5, #f-week5').click(function(){
 	$("#main").load("pages/week5.html");
 	$(this).addClass("active");
 });
+$('#week6, #f-week6').click(function(){
+	playSound();
+	$(".nav-link").removeClass("active");
+	$("#main").removeClass("bg");
+	$("#nav-item a").removeClass("active");
+	$("#main").load("pages/week6.html");
+	$(this).addClass("active");
+});
 
 function cl (a) {
 	$(".nav-item .nav-link").removeClass("active");
