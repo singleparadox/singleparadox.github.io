@@ -8,5 +8,5 @@ Third Party frameworks used:
 
 
 **You can access the website by using the links below **
-http://singleparadox.github.io or http://glennperez.me
+http://singleparadox.github.io or http://glennperez.dev
 
